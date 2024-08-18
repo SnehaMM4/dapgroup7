@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import plotly.express as px
+import plotly as px
 
 #page configuration
 # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/

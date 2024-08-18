@@ -10,7 +10,7 @@ install('numpy')
 install('streamlit')
 install('plotly_express')'''
 
-!pip install plotly_express
+python3 -m pip install plotly_express
 import pandas as pd
 import numpy as np
 import streamlit as st

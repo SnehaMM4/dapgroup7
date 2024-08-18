@@ -2,11 +2,11 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import plotly as px
+import plotly.express as px
 
 #page configuration
 # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="Trnansactions Analysis Dashboard", page_icon=":mechanical_arm:", layout="wide")
+st.set_page_config(page_title="Transactions Analysis Dashboard", page_icon=":mechanical_arm:", layout="wide")
 
 #read in data
 @st.cache_data

@@ -1,6 +1,6 @@
 #import libraries
 
-import subprocess
+'''import subprocess
 import sys
 
 def install(package):
@@ -8,8 +8,9 @@ def install(package):
 install('pandas')
 install('numpy')
 install('streamlit')
-#install('plotly_express')
+install('plotly_express')'''
 
+!pip install plotly_express
 import pandas as pd
 import numpy as np
 import streamlit as st

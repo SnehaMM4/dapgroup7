@@ -8,7 +8,7 @@ def install(package):
 install('pandas')
 install('numpy')
 install('streamlit')
-install('plotly_express')
+#install('plotly_express')
 
 import pandas as pd
 import numpy as np

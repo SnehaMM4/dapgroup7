@@ -1,6 +1,4 @@
 #import libraries
-sudo apt install python3-pip
-python3 -m pip install plotly
 import pandas as pd
 import numpy as np
 import streamlit as st
